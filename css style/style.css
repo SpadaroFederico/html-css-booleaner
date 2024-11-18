@@ -8,3 +8,26 @@
     font-size: 80%;
     margin-top: 0%;
 }
+
+/* defiizioni immagini */
+
+.image-definition{
+    font-size: 50%;
+    margin-top: 0%;
+}
+
+.full-text{
+    font-size: 80%;
+}
+
+/* testo evidenziato */
+
+.text1{
+    background-color: yellow;
+}
+
+/* definizioni lista */
+.list{
+    margin-right: 0%;
+    font-size: 50%;
+}
