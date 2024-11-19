@@ -1,3 +1,14 @@
+#img-header{
+    background-color: #96D9F1;
+    background-image: url(../img/pattern.png);
+    height: 180px;
+    background-position: 10% top;
+}
+
+#logo{
+    width: 200px;
+}
+
 /* colore nome utentes */
 .azzurro{
     color: #96D9F1;
@@ -31,3 +42,61 @@
     margin-right: 0%;
     font-size: 50%;
 }
+/* tabella */
+
+/* Stile per la tabella */
+table {
+    text-align: left;
+    width: 100%; 
+    border-collapse: collapse; 
+    border-spacing: 20%; 
+  }
+  
+  th, td {
+    padding: 10px;
+    word-wrap: break-word; 
+    white-space: normal; 
+  }
+  
+  /* Colora la prima riga di blu */
+  .prima-riga {
+    background-color: blue;
+    color: white;
+  }
+  
+  /* Colora la seconda e la quarta riga di azzurro */
+  .azzurra {
+    background-color: lightblue;
+  }
+  
+  /* Stile per l'ultima colonna con testo lungo */
+  td:nth-child(3) {
+    word-break: break-word; 
+  }
+
+  /* footer */
+  
+  #gray-content{
+    color: gray;
+  }
+  
+  #backgroundpics{
+    height: 200px;
+    color: white;
+    background-repeat: no-repeat;
+  }
+
+  #picfooter1{
+    background-image: url(/img/monitor.jpg) ;
+    background-repeat: no-repeat;
+    height: 200px;
+  }
+  #picfooter2{
+    background-image: url(/img/graph.jpg) ;
+    height: 200px;
+    background-repeat: no-repeat;
+  }
+
+  .white{
+    color: white;
+  }
