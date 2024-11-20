@@ -87,12 +87,12 @@ table {
   }
 
   #picfooter1{
-    background-image: url(/img/monitor.jpg) ;
+    background-image: url(../img/monitor.jpg) ;
     background-repeat: no-repeat;
     height: 200px;
   }
   #picfooter2{
-    background-image: url(/img/graph.jpg) ;
+    background-image: url(../img/graph.jpg) ;
     height: 200px;
     background-repeat: no-repeat;
   }
